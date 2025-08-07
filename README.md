@@ -6,7 +6,7 @@ This repository demonstrates how to build a comprehensive multimodal AI video an
 👉 [Spring AI Video Analysis: Transcribe, Summarize & Query Video with LLMs](https://bootcamptoprod.com/spring-ai-video-analysis-guide/)
 
 🎥 **Visual Learning**: Prefer video tutorials? Watch our step-by-step implementation guide on YouTube.<br>
-👉 YouTube Tutorial - Coming soon!
+👉 YouTube Tutorial - [Spring AI Video Analysis | Transcribe, Summarize & Query](https://youtu.be/hKxw2HmdEjQ)
 
 ---
 
