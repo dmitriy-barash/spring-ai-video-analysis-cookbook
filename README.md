@@ -31,4 +31,3 @@ The application exposes four REST endpoints that accept video files in different
 
 ---
 
-AIzaSyCwTkYJWUrqpiL08dhrJBiom7OTovLlbfQ
