@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mvn:*)",
+      "Bash(set GEMINI_API_KEY=AIzaSyCwTkYJWUrqpiL08dhrJBiom7OTovLlbfQ)",
+      "Bash(taskkill:*)",
+      "Bash(tskill:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

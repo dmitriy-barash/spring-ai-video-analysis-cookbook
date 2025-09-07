@@ -30,3 +30,5 @@ This project implements a **comprehensive Video Analysis API** to demonstrate th
 The application exposes four REST endpoints that accept video files in different formats along with text prompts, sends them to Gemini for multimodal analysis, and returns AI-generated insights about the video content, including scene descriptions, object recognition, and content summaries.
 
 ---
+
+AIzaSyCwTkYJWUrqpiL08dhrJBiom7OTovLlbfQ
